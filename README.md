@@ -16,7 +16,6 @@ The system is intended for compact, wearable AI/XR applications.
 ## Software
 - Arduino framework
 - ESP32 camera driver
-- Custom firmware to switch camera resolutions dynamically
 
 ## Demo Description
 Video clips were captured at different resolutions supported by the ESP32-S3:
